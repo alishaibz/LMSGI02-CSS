@@ -15,7 +15,7 @@ Per a la realització de la tercera tasca de l'assignatura **_Llenguatge de Marq
 
 5. Codificació amb CSS de l'estil per a la meva pàgina web, complint amb tots els elements que se'ns demana a la tasca.
 
-6. Enllaç del fitxer .css (_estil.css_) al fitxer .html (_LMSGI02.html_), amb la següent codificació dins de l'etiqueta _&lthead&gt_ del fitxer .html: _&ltlink rel="stylesheet" type="text/css" href="css/estil.css"&gt_
+6. Enllaç del fitxer .css (_estil.css_) al fitxer .html (_LMSGI02.html_), amb la següent codificació dins de l'etiqueta _&lt;head&gt;_ del fitxer .html: _&lt;link rel="stylesheet" type="text/css" href="css/estil.css"&gt;_
 
 7. Modificacions diverses en la codificació dels fitxers _estil.css_ i _LMSGI02.html_ per tal d'aconseguir una bona presentació de la pàgina web: distribució d'elements HTML en capes (div), declaració de classes (class) i identificadors (id) per alguns elements HML, canvis de marges, colors, etc.
 
