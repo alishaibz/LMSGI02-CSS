@@ -15,9 +15,9 @@ Per a la realització de la tercera tasca de l'assignatura **_Llenguatge de Marq
 
 5. Codificació (amb CSS) de l'estil per a la meva pàgina web, complint amb tots els elements que se'ns demana a la tasca.
 
-6. Enllaç del fitxer .css (estil.css) al fitxer .html (LMSGI02), amb la següent codificació dins de l'etiqueta _<head></head>_ del fitxer .html: _<link rel="stylesheet" type="text/css" href="css/estil.css">_
+6. Enllaç del fitxer .css (_estil.css_) al fitxer .html (_LMSGI02.html_), amb la següent codificació dins de l'etiqueta _<head></head>_ del fitxer .html: _<link rel="stylesheet" type="text/css" href="css/estil.css">_
 
-7. Modificacions diverses en la codificació dels fitxers estil.css i LMSGI02.html per tal d'aconseguir una bona presentació de la pàgina web: distribució d'elements HTML en capes (div), declaració de classes (class) i identificadors (id) per alguns elements HML, canvis de marges, colors, etc.
+7. Modificacions diverses en la codificació dels fitxers _estil.css_ i _LMSGI02.html_ per tal d'aconseguir una bona presentació de la pàgina web: distribució d'elements HTML en capes (div), declaració de classes (class) i identificadors (id) per alguns elements HML, canvis de marges, colors, etc.
 
 8. Validació del fitxer .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
 
@@ -25,8 +25,8 @@ Per a la realització de la tercera tasca de l'assignatura **_Llenguatge de Marq
 
 10. Creació d'un nou repositori a Github, [**LMSGI02-CSS**](https://github.com/alishaibz/LMSGI02-CSS).
     
-10. Pujada dels arxius corresponents a la tasca (directoris "img" i "css" i fitxer .html) al repositori **LMSGI02-CSS**.
+11. Pujada dels arxius corresponents a la tasca (directoris "img" i "css" i fitxer .html) al nou repositori, **LMSGI02-CSS**.
 
-11. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/LMSGI02/master/LMSGI02.html).
+12. Obtenció de [URL de Rawgit de la meva web]().
 
-12. Edició del fitxer README.me del repositori **LMSGI02-CSS**.
+13. Edició del fitxer README.me del repositori **LMSGI02-CSS**.
