@@ -1,0 +1,102 @@
+﻿body {
+    font-family:Arial, sans-serif;
+    font-size: 16px;
+    color: #001C66;
+    background-color: #FFFFC6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    background-color: #285896;
+    color: white;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 12px;
+    background-color: white;
+    margin: auto;
+}
+
+td, th {
+    border: 1px solid #909C9A;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #FFFFC6;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #FDC722;
+    font-weight: bold;
+    text-align: center;
+}
+
+td:nth-child(3) {
+    text-align: center;
+    font-weight: bold;
+}
+
+td:nth-child(1) {
+    font-weight: bold;
+}
+
+ul {
+    list-style-position:inside;
+    list-style-type: square;
+}
+
+a:link {
+    color: #001C66;
+}
+
+a:visited {
+    color: #909C9A;
+}
+
+a:hover, a:active {
+    color: #FDC722;
+}
+
+#terraza, #logo, #paella {
+    display: block;
+    margin: auto;
+}
+
+#logo {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #FDC722;
+}
+
+.tabla {
+    margin: 15px 0px 15px 0px;
+}
+
+.bloque {
+    margin: 25px 50px 35px 50px;
+}
+
+.mensaje {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
